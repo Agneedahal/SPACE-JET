@@ -2,6 +2,7 @@
 title = SPACE-JET
 package.name = spacejet
 package.domain = org.test
+source.filename = main.py
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,wav
 version = 0.1
